@@ -6,13 +6,13 @@ Typically referring to an algebraic structure consisting of some nonempty set of
 
 ## Homomorphism
 
-A Homomorphismis a mapping between two algebraic objects of the same type that preserves all operations the object is equipped with. For instance, consider two sets $A$ and $B$ each equipped with an binary operation $*$. Then if
+A Homomorphism is a mapping between two algebraic objects of the same type that preserves all operations the object is equipped with. For instance, consider two sets $A$ and $B$ each equipped with an binary operation $*$. Then if
 
 $$
 f(x*y) = f(x)*f(y)
 $$
 
-for $\forall{x},y \in{A}$, the map $f$ is considered a homemorphism. 
+for $\forall{x},y \in{A}$, the map $f$ is considered a homomorphism. 
 
 Consider the function $f(x) = 2x$. Our object of interest will be a vector space with elements $\{4, 5, 3\}$ and thus our operations are addition and multiplication by scalar. Then, for multiplication by $2$:
 

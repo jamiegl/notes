@@ -61,3 +61,12 @@ def create_scatter_matrix(
             alpha=0.3
         )
 ```
+
+## Correlation heatmap
+
+```python
+import seaborn as sns
+
+sns.set(rc={'figure.figsize':(20, 20)})
+sns.heatmap(le_data.corr(), cmap='seismic', annot=True, vmin=-1, vmax=1)
+```
