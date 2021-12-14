@@ -6,6 +6,8 @@ Deep Neural networks contains input neurons, hidden layers and output neurons fo
 
 The nodes are called perceptrons and are approximations for axons in the human brain. If the nodes are all connected via all possible outputs and inputs then it is called fully connected.
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Blausen_0657_MultipolarNeuron.png/1920px-Blausen_0657_MultipolarNeuron.png" title="" alt="Blausen 0657 MultipolarNeuron.png" data-align="center">
+
 Axons take inputs from other neurons via the dendrites and perform some weighted sum in the cell body. If this is past a threshold value, a signal is fired through the axon out the synapse. Otherwise they stay at rest.
 
 ### Training
